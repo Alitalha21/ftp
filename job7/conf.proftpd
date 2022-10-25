@@ -15,7 +15,7 @@ UseIPv6 on
   IdentLookups off
 </IfModule>
 
-ServerName "SRV-Moufid"
+ServerName "SRV-Ali"
 # Set to inetd only if you would run proftpd by inetd/xinetd/socket.
 # Read README.Debian for more information on proper configuration.
 ServerType standalone
